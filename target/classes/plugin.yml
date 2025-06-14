@@ -1,0 +1,6 @@
+name: UltimateTroll
+version: '1.0'
+main: me.dean.ultimateTroll.UltimateTroll
+api-version: '1.21'
+authors: [ Dean ]
+depend: [CommandAPI]
